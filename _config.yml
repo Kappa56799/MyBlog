@@ -1,8 +1,8 @@
-title: My Blog
+title: Kacper's Blog
 description: Blog for my personal website
 theme: just-the-docs
 
 url: https://blog.kacper.boo
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Return Home: https://kacper.boo/
